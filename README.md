@@ -49,7 +49,7 @@ _A consolidated senior dev job rec.  (AKA development goals for a junior dev)._
 
 ## Additional languages / frameworks **(in what order?)**
 + Golang
-+ Closure
++ Clojure
 + Node.js
 + MongoDB
 + Scala
