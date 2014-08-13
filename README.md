@@ -26,6 +26,8 @@ _A consolidated senior dev job rec.  (AKA development goals for a junior dev)._
 + responsive design, best SEO practices, accessability and rich, interactive content
 + experience turning comps and wireframes into code
 + know the guidelines and limitations of HTML emails/newsletters
++ js testing - mocha, jade, jasmine
++ understand how ES6 impacts javascript
 
 ## General
 + Strong software engineering fundamentals **(expand!)**
