@@ -1,7 +1,7 @@
 seniordev
 =========
 
-_A consolidated senior dev job rec.  (AKA development goals for a junior dev)._
+A consolidated senior dev job rec.  (AKA development goals for a junior dev)._
 
 ## Rails / Ruby / server-side
 + BDD & TDD proficient with test frameworks such as RSpec, Capybara
@@ -34,7 +34,14 @@ _A consolidated senior dev job rec.  (AKA development goals for a junior dev)._
 + solid debugging and troubleshooting skills
 + regular expressions
 + use of Agile project tools such as Rally or Pivotal Tracker
-+ ability to own projects end-to-end as demonstrated by significant open-source contributions, independent projects, team leadership, or startups
++ ability to own projects end-to-end as demonstrated by significant open-source contributions, independent projects or startups
+
+## Leadership
++ Provides technical leadership, guidance and mentoring for team members
++ Can acts as a single point of contact for daily communication for technical aspects of the team’s product delivery
++ Initiates and coordinates reviews with architecture and infrastructure when necessary
++ Works with the product owner to ensure that architectural non-functional requirements in user stories are articulated and met
++ Ensures that proper development documentation is being produced when appropriate
 
 ## Environment
 + working knowledge of Unix/Linux
